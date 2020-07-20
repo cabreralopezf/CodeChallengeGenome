@@ -3,7 +3,8 @@
 This is my take on the automated test part of the challenge, the project is done using the Page Object pattern/model for automated frameworks.
 
 In order to run the tests the web browser Chrome version 84.0 or higher is required.
-The requirements.txt file can be used to install the libraries needed.
+
+The requirements.txt file can be used to install the libraries needed like selenium and html-testRunner.
 
 In order to use these tests the file in the project structure "TestFramework/TestCases/AllScenarios.py" could be used ran as a unit test.
 
