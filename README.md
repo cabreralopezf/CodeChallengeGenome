@@ -1,5 +1,4 @@
 # CodeChallengeGenome
-Code Challenge for Genome
 
 In order to use these tests the file in the project structure "TestFramework/TestCases/AllScenarios.py" could be used ran as a unit test.
 
