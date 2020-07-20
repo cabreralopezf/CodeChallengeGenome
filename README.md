@@ -5,7 +5,7 @@ This is my take on the automated test part of the challenge, the project is done
 In order to run the tests the web browser Chrome version 84.0 or higher is required.
 Also it is required to use Python 3.8 or newer to run this.
 
-Before running make sure to install the required libraries with the command pip install -r requirements.txt
+Before running make sure to install the required libraries from terminal in the root of the project. This can be done with the command "pip install -r requirements.txt"
 
 The requirements.txt file can be used to install the libraries needed like selenium and html-testRunner.
 
