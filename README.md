@@ -1,13 +1,16 @@
 # CodeChallengeGenome
+> This is my take on the automated test part of the challenge, the project is done using the Page Object pattern/model for automated frameworks.
 
-This is my take on the automated test part of the challenge, the project is done using the Page Object pattern/model for automated frameworks.
-
+## Requirements
 In order to run the tests the web browser Chrome version 84.0 or higher is required.
 Also it is required to use Python 3.8 or newer to run this.
 
-Before running make sure to install the required libraries from terminal in the root of the project. This can be done with the command "pip install -r requirements.txt"
+Before running make sure to install the required libraries from terminal in the root of the project. This can be done with the command: 
 
-The requirements.txt file can be used to install the libraries needed like selenium and html-testRunner.
+```shell
+pip install -r requirements.tx
+```
+## Usage
 
 In order to run the tests from terminal the location must be the root of the project, to run from terminal type "python -m Reporting.CodeChallengeTestPlan"
 
